@@ -4,7 +4,7 @@ image: images/nathan_wolf-sonkin.jpg
 description: PhD Student
 role: phd
 links:
-  email: nathan.wolf-sonkin@templed.edu
+  email: nathan.wolf-sonkin@temple.edu
   # twitter: sarahjohnson
 ---
 

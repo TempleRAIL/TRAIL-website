@@ -7,6 +7,7 @@ aliases:
   - P Dames
   - PM Dames
 links:
+  email: pdames@temple.edu
 #   home-page: https://janesmith.com
   orcid: 0000-0002-7257-0075
 ---
