@@ -11,7 +11,7 @@ TRAIL seeks to enable teams of mobile robots to autonomously explore and gather 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on developing intelligent robotic systems capable of operating autonomously in complex, uncertain, and dynamic environments. We study algorithms for perception, planning, decision-making, and multi-robot coordination with applications in real-world robotic systems. Check out our most recent publications here
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a diverse group of graduate students, undergraduate researchers, and collaborators united by a shared interest in robotics, autonomy, and artificial intelligence. Learn about our members here
 
 {%
   include button.html

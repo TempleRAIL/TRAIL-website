@@ -7,14 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Our research develops algorithmic and systems-level methods that enable teams of autonomous robots to perceive, navigate, and make decisions in uncertain, dynamic, and unstructured environments. This includes distributed multi-robot search, tracking, and information gathering; uncertainty-aware navigation and mapping; scalable coordination for tasks such as cooperative exploration and delivery; and performance prediction for multi-robot teams. We combine probabilistic reasoning, planning under uncertainty, and scalable coordination strategies to bridge theory and practice in real-world robotic autonomy.
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="DELIVER: A System for LLM-Guided Coordinated Multi-Robot Pickup and Delivery using Voronoi-Based Relay Planning" style="rich" %}
+{% include citation.html lookup="Toward Predicting Collective Performance in Multirobot Teams" style="rich" %}
 
 {% include section.html %}
 
