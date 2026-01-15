@@ -8,9 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Projects
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/images/projects/research-projects-overview.png" style="max-width: 70%; height: auto;">
+  <img src="{{ site.baseurl }}/images/projects/research-projects-overview.png" style="width:70%; height:auto;">
 </div>
-
 Our current research exists at the intersection of three broad areas of research: Multi-Agent Systems, Autonomy, and Real-World Applications. See how our current projects are taking on these challenges below!
 
 {%- for project in site.research-projects -%}
