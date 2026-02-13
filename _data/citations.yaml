@@ -1,226 +1,565 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1007/978-3-319-23519-6_1664-1
+  title: Simultaneous Localization and Mapping for Autonomous Mobile Agents
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Philip Dames
+  publisher: Encyclopedia of GIS
+  date: '2025-09-18'
+  link: https://doi.org/hbjtkq
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s10514-025-10200-z
+  title: Effective tracking of unknown clustered targets using a distributed team
+    of mobile robots
+  authors:
+  - Jun Chen
+  - Philip Dames
+  - Shinkyu Park
+  publisher: Autonomous Robots
+  date: '2025-05-24'
+  link: https://doi.org/hbjtks
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/TRO.2025.3543303
+  title: Distributed Multirobot Multitarget Tracking Using Heterogeneous Limited-Range
+    Sensors
+  authors:
+  - Jun Chen
+  - Mohammed Abugurain
+  - Philip Dames
+  - Shinkyu Park
+  publisher: IEEE Transactions on Robotics
+  date: '2025-02-18'
+  link: https://doi.org/hbjtkv
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/TRO.2025.3578234
+  title: 'SCOPE: Stochastic Cartographic Occupancy Prediction Engine for Uncertainty-Aware
+    Dynamic Navigation'
+  authors:
+  - Zhanteng Xie
+  - Philip Dames
+  publisher: IEEE Transactions on Robotics
+  date: '2025-06-09'
+  link: https://doi.org/hbjtkp
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/978-981-96-3519-1_15
+  title: "Speech-Guided Sequential Planning for\_Autonomous Navigation Using Large\
+    \ Language Model Meta AI 3 (Llama3)"
+  authors:
+  - Alkesh K. Srivastava
+  - Philip Dames
+  publisher: Lecture Notes in Computer Science
+  date: '2025-03-25'
+  link: https://doi.org/hbjtkw
+  orcid: 0000-0002-7470-4620
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/TRO.2025.3552348
+  title: 'Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps'
+  authors:
+  - Timothy Chen
+  - Ola Shorinwa
+  - Joseph Bruno
+  - Aiden Swann
+  - Javier Yu
+  - Weijia Zeng
+  - Keiko Nagami
+  - Philip Dames
+  - Mac Schwager
+  publisher: IEEE Transactions on Robotics
+  date: '2025-03-17'
+  link: https://doi.org/hbjtkt
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/TRO.2025.3600164
+  title: Toward Predicting Collective Performance in Multirobot Teams
+  authors:
+  - Pujie Xin
+  - Zhanteng Xie
+  - Philip Dames
+  publisher: IEEE Transactions on Robotics
+  date: '2025-08-19'
+  link: https://doi.org/hbjtkn
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s10846-023-01986-0
+  title: The Convex Uncertain Voronoi Diagram for Safe Multi-Robot Multi-Target Tracking
+    Under Localization Uncertainty
+  authors:
+  - Jun Chen
+  - Philip Dames
+  publisher: Journal of Intelligent &amp; Robotic Systems
+  date: '2023-11-22'
+  link: https://doi.org/hbjtk3
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/cogmi58952.2023.00011
+  title: 'Artificial Intelligence for Climate Smart Forestry: A Forward Looking Vision'
+  authors:
+  - Feng Luo
+  - Ling Liu
+  - G. Geoff Wang
+  - Vijay Kumar
+  - Mark S. Ashton
+  - Jacob Abernethy
+  - Fatemeh Afghah
+  - Matthew H. E. M Browning
+  - David Coyle
+  - Philip Dames
+  - Tom O'Halloran
+  - James Hays
+  - Patrick Heisl
+  - Chenfanfu Jiang
+  - Puskar Khanal
+  - Venkat Narayan Krovi
+  - Sara Kuebbing
+  - Nianyi Li
+  - JingJing Liang
+  - Ninghao Liu
+  - Steve McNulty
+  - Christopher M. Oswalt
+  - Neil Pederson
+  - Demetri Terzopoulos
+  - Christopher W. Woodall
+  - Yongkai Wu
+  - Jian Yang
+  - Yin Yang
+  - Liang Zhao
+  publisher: 2023 IEEE 5th International Conference on Cognitive Machine Intelligence
+    (CogMI)
+  date: '2023-11-01'
+  link: https://doi.org/gtwtgv
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/TRO.2023.3257549
+  title: 'DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity
+    Obstacles'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Zhanteng Xie
+  - Philip Dames
+  publisher: IEEE Transactions on Robotics
+  date: '2023-03-30'
+  link: https://doi.org/g7kvn5
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- title: Stochastic Occupancy Grid Map Prediction in Dynamic Scenes
+  publisher: 7th Annual Conference on Robot Learning
+  date: '2024-07-29'
+  link: https://openreview.net/forum?id=fSmkKmWM5Ry
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1109/mra.2022.3213466
+  title: 'Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned
+    From the Benchmark Autonomous Robot Navigation Challenge at ICRA 2022 [Competitions]'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Xuesu Xiao
+  - Zifan Xu
+  - Zizhao Wang
+  - Yunlong Song
+  - Garrett Warnell
+  - Peter Stone
+  - Tingnan Zhang
+  - Shravan Ravi
+  - Gary Wang
+  - Haresh Karnan
+  - Joydeep Biswas
+  - Nicholas Mohammad
+  - Lauren Bramblett
+  - Rahul Peddi
+  - Nicola Bezzo
+  - Zhanteng Xie
+  - Philip Dames
+  publisher: IEEE Robotics &amp; Automation Magazine
+  date: '2022-12-01'
+  link: https://doi.org/hbjtk5
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.21203/rs.3.rs-1849567/v1
+  title: Active Multi-Target Search Using Distributed Thompson Sampling
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jun Chen
+  - Philip Dames
+  publisher: Springer Science and Business Media LLC
+  date: '2022-07-15'
+  link: https://doi.org/hbpgbb
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.21203/rs.3.rs-1530901/v1
+  title: The Convex Uncertain Voronoi Diagram for Safe Multi-Robot Multi-Target Tracking
+    Under Localization Uncertainty
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Jun Chen
+  - Philip Dames
+  publisher: Springer Science and Business Media LLC
+  date: '2022-05-19'
+  link: https://doi.org/hbpgbc
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.robot.2021.103947
+  title: 'The semantic PHD filter for multi-class target tracking: From theory to
+    practice'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Jun Chen
+  - Zhanteng Xie
+  - Philip Dames
+  publisher: Robotics and Autonomous Systems
+  date: '2022-03-01'
+  link: https://doi.org/hbjtmb
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/iros51168.2021.9636102
+  title: Towards Safe Navigation Through Crowded Dynamic Environments
+  authors:
+  - Zhanteng Xie
+  - Pujie Xin
+  - Philip Dames
+  publisher: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2021-09-27'
+  link: https://doi.org/hbjtmc
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1109/icra48506.2021.9561888
+  title: Distributed Multi-Target Tracking for Heterogeneous Mobile Sensing Networks
+    with Limited Field of Views
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Jun Chen
+  - Philip Dames
+  publisher: 2021 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2021-05-30'
+  link: https://doi.org/hbjtmd
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/icra48506.2021.9561057
+  title: 'RASCAL: Robotic Arm for Sherds and Ceramics Automated Locomotion'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Deborah Wang
+  - Brandon Lutz
+  - Peter J. Cobb
+  - Philip Dames
+  publisher: 2021 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2021-05-30'
+  link: https://doi.org/hbjtmf
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1109/iros45743.2020.9341126
+  title: Collision-Free Distributed Multi-Target Tracking Using Teams of Mobile Robots
+    with Localization Uncertainty
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Jun Chen
+  - Philip Dames
+  publisher: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2020-10-24'
+  link: https://doi.org/gqrgvt
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.23919/acc45564.2020.9147359
+  title: Distributed and Collision-Free Coverage Control of a Team of Mobile Sensors
+    Using the Convex Uncertain Voronoi Diagram
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Jun Chen
+  - Philip Dames
+  publisher: 2020 American Control Conference (ACC)
+  date: '2020-01-03'
+  link: https://doi.org/hbjtmm
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  tags:
+  - distributed tracking
+- id: doi:10.1007/s10514-019-09840-9
+  title: Distributed multi-target search and tracking using the PHD filter
+  authors:
+  - "Philip\_M. Dames"
+  publisher: Autonomous Robots
+  date: '2019-02-22'
+  link: https://doi.org/gg57vt
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  tags:
+  - distributed tracking
+- id: doi:10.1017/aap.2019.21
+  title: 'Centimeter-Level Recording for All: Field Experimentation with New, Affordable
+    Geolocation Technology'
+  authors:
+  - Peter J. Cobb
+  - Tiffany Earley-Spadoni
+  - Philip Dames
+  publisher: Advances in Archaeological Practice
+  date: '2019-08-13'
+  link: https://doi.org/gf7kzj
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- title: Multi-Class Target Tracking Using the Semantic PHD Filter
+  publisher: 2019 International Symposium Robotics Research (ISRR)
+  date: '2021-03-25'
+  orcid: 0000-0002-7257-0075
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.48550/arXiv.2508.19114
+- title: Distributed Multi-Target Search and Tracking Using a Coordinated Team of
+    Ground and Aerial Robots
+  publisher: 2nd IEEE International Symposium on Multi-Robot and Multi-Agent Systems
+  date: '2020-01-10'
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TRO.2018.2857475
+  title: A Survey on Aerial Swarm Robotics
+  authors:
+  - Soon-Jo Chung
+  - Aditya Avinash Paranjape
+  - Philip Dames
+  - Shaojie Shen
+  - Vijay Kumar
+  publisher: IEEE Transactions on Robotics
+  date: '2018-08-03'
+  link: https://doi.org/gd5jvb
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/TRO.2018.2860098
+  title: Guest Editorial Special Section on Aerial Swarm Robotics
+  authors:
+  - S.-J. Chung
+  - A. Paranjape
+  - P. Dames
+  - S. Shen
+  - V. Kumar
+  publisher: IEEE Transactions on Robotics
+  date: '2018-08-03'
+  link: https://doi.org/gg654x
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s10514-017-9662-9
+  title: "Autonomous robotic exploration using a utility function based on R\xE9nyi\u2019\
+    s general theory of entropy"
+  authors:
+  - Henry Carrillo
+  - Philip Dames
+  - Vijay Kumar
+  - "Jos\xE9 A. Castellanos"
+  publisher: Autonomous Robots
+  date: '2017-08-12'
+  link: https://doi.org/gczm64
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/mrs.2017.8250924
+  title: Distributed multi-target search and tracking using the PHD filter
+  authors:
+  - Philip Dames
+  publisher: 2017 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
+  date: '2017-12-01'
+  link: https://doi.org/hbjtmp
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0278364917709507
+  title: Detecting, localizing, and tracking an unknown number of moving targets using
+    a team of mobile robots
+  authors:
+  - Philip Dames
+  - Pratap Tokekar
+  - Vijay Kumar
+  publisher: The International Journal of Robotics Research
+  date: '2017-06-05'
+  link: https://doi.org/gcr254
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tase.2016.2631085
+  title: Automated System for Semantic Object Labeling With Soft-Object Recognition
+    and Dynamic Programming Segmentation
+  authors:
+  - Jonas Cleveland
+  - Dinesh Thakur
+  - Philip Dames
+  - Cody Phillips
+  - Terry Kientz
+  - Kostas Daniilidis
+  - John Bergstrom
+  - Vijay Kumar
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2017-04-01'
+  link: https://doi.org/f95cj6
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/lra.2015.2511444
+  title: Active Magnetic Anomaly Detection Using Multiple Micro Aerial Vehicles
+  authors:
+  - Philip M. Dames
+  - Mac Schwager
+  - Daniela Rus
+  - Vijay Kumar
+  publisher: IEEE Robotics and Automation Letters
+  date: '2016-01-01'
+  link: https://doi.org/ghj5tp
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icra.2015.7139224
+  title: Autonomous robotic exploration using occupancy grid maps and graph SLAM based
+    on Shannon and R&amp;#x00E9;nyi Entropy
+  authors:
+  - Henry Carrillo
+  - Philip Dames
+  - Vijay Kumar
+  - Jose A. Castellanos
+  publisher: 2015 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2015-05-01'
+  link: https://doi.org/gf8zn7
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:http://dx.doi.org/10.1109/CoASE.2015.7294159
+  title: An automated system for semantic object labeling with soft object recognition
+    and dynamic programming segmentation | IEEE Conference Publication | IEEE Xplore
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/hbjtmq
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:http://dx.doi.org/10.1109/CoASE.2015.7294139
+  title: Automated detection, localization, and registration of smart devices with
+    multiple robots | IEEE Conference Publication | IEEE Xplore
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/hbjtmr
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASE.2015.2425212
+  title: Autonomous Localization of an Unknown Number of Targets Without Data Association
+    Using Teams of Mobile Sensors
+  authors:
+  - Philip Dames
+  - Vijay Kumar
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2015-07-01'
+  link: https://doi.org/f7k46m
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- title: Detecting, Localizing, and Tracking an Unknown Number of Moving Targets Using
+    a Team of Mobile Robots
+  publisher: Proceedings of the International Symposium on Robotics Research
+  date: '2017-02-23'
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICRA.2013.6630825
+  title: Cooperative multi-target localization with noisy sensors
+  authors:
+  - Philip Dames
+  - Vijay Kumar
+  publisher: 2013 IEEE International Conference on Robotics and Automation
+  date: '2013-05-01'
+  link: https://doi.org/hbjtmw
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.mechmachtheory.2012.12.007
+  title: Modeling, design, and control of 6-DoF flexure-based parallel mechanisms
+    for vibratory manipulation
+  authors:
+  - Thomas H. Vose
+  - Matthew H. Turpin
+  - Philip M. Dames
+  - Paul Umbanhowar
+  - Kevin M. Lynch
+  publisher: Mechanism and Machine Theory
+  date: '2013-06-01'
+  link: https://doi.org/f4s673
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MRA.2013.2295947
+  title: 'Playing Fetch with Your Robot: The Ability of Robots to Locate and Interact
+    with Objects'
+  authors:
+  - Philip Dames
+  - Dinesh Thakur
+  - Mac Schwager
+  - Vijay Kumar
+  publisher: IEEE Robotics &amp; Automation Magazine
+  date: '2014-06-01'
+  link: https://doi.org/hbjtmv
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CDC.2012.6426239
+  title: A decentralized control policy for adaptive information gathering in hazardous
+    environments
+  authors:
+  - Philip Dames
+  - Mac Schwager
+  - Vijay Kumar
+  - Daniela Rus
+  publisher: 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
+  date: '2012-12-01'
+  link: https://doi.org/gr568d
+  orcid: 0000-0002-7257-0075
+  plugin: sources.py
+  file: sources.yaml
+- title: A Multi-Robot Control Policy for Information Gathering in the Presence of
+    Unknown Hazards
+  publisher: Proceedings of the International Symposium on Robotics Research
+  date: '2017-02-23'
+  link: http://www.isrr-2011.org/ISRR-2011/Program_files/Papers/Schwager2-ISRR-2011.pdf
+  orcid: 0000-0002-7257-0075
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A Comparison of the Probability Hypothesis Density Filter and the Multiple
+    Hypothesis Tracker for Tracking Targets of Multiple Types
+  date: '2022-03-09'
+  link: https://scholarshare.temple.edu/bitstream/handle/20.500.12613/860/Brodovsky_temple_0225M_13867.pdf?sequence=1&isAllowed=y
+  orcid: 0000-0002-1371-9044
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2508.19114
   title: 'DELIVER: A System for LLM-Guided Coordinated Multi-Robot Pickup and Delivery
     using Voronoi-Based Relay Planning'
   authors:
@@ -234,7 +573,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.48550/arXiv.2509.23308
+- id: doi:10.48550/arXiv.2509.23308
   title: Distributed Multi-Robot Multi-Target Simultaneous Search and Tracking in
     an Unknown Non-convex Environment
   authors:
@@ -247,7 +586,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.48550/arXiv.2509.14127
+- id: doi:10.48550/arXiv.2509.14127
   title: Energy Efficient Multi Robot Package Delivery under Capacity-Constraints
     via Voronoi-Constrained Networks
   authors:
@@ -260,10 +599,13 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.48550/arXiv.2409.09899
-  title: 'Semantic2D: A Semantic Dataset for 2D Lidar Semantic Segmentation'
+- id: doi:10.48550/arXiv.2409.09899
+  title: 'Semantic2D: Enabling Semantic Scene Understanding with 2D Lidar Alone'
   authors:
   - Zhanteng Xie
+  - Yipeng Pan
+  - Yinqiang Zhang
+  - Jia Pan
   - Philip Dames
   publisher: arXiv
   date: '2024-09-15'
@@ -271,7 +613,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fpls.2025.1699124
+- id: doi:10.3389/fpls.2025.1699124
   title: Distributed multi-robot active gathering for non-uniform agriculture and
     forestry information
   authors:
@@ -287,41 +629,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/TRO.2025.3600164
-  title: Toward Predicting Collective Performance in Multirobot Teams
-  authors:
-  - Pujie Xin
-  - Zhanteng Xie
-  - Philip Dames
-  publisher: IEEE Transactions on Robotics
-  date: '2025-08-19'
-  link: https://doi.org/hbjtkn
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/TRO.2025.3578234
-  title: 'SCOPE: Stochastic Cartographic Occupancy Prediction Engine for Uncertainty-Aware
-    Dynamic Navigation'
-  authors:
-  - Zhanteng Xie
-  - Philip Dames
-  publisher: IEEE Transactions on Robotics
-  date: '2025-06-09'
-  link: https://doi.org/hbjtkp
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/978-3-319-23519-6_1664-1
-  title: Simultaneous Localization and Mapping for Autonomous Mobile Agents
-  authors:
-  - Philip Dames
-  publisher: Encyclopedia of GIS
-  date: '2025-09-18'
-  link: https://doi.org/hbjtkq
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/s11721-025-00249-y
+- id: doi:10.1007/s11721-025-00249-y
   title: Comparison of stochastic optimization strategies in multi-robot multi-target
     tracking scenarios
   authors:
@@ -333,64 +641,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s10514-025-10200-z
-  title: Effective tracking of unknown clustered targets using a distributed team
-    of mobile robots
-  authors:
-  - Jun Chen
-  - Philip Dames
-  - Shinkyu Park
-  publisher: Autonomous Robots
-  date: '2025-05-24'
-  link: https://doi.org/hbjtks
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/TRO.2025.3552348
-  title: 'Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps'
-  authors:
-  - Timothy Chen
-  - Ola Shorinwa
-  - Joseph Bruno
-  - Aiden Swann
-  - Javier Yu
-  - Weijia Zeng
-  - Keiko Nagami
-  - Philip Dames
-  - Mac Schwager
-  publisher: IEEE Transactions on Robotics
-  date: '2025-03-17'
-  link: https://doi.org/hbjtkt
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/TRO.2025.3543303
-  title: Distributed Multirobot Multitarget Tracking Using Heterogeneous Limited-Range
-    Sensors
-  authors:
-  - Jun Chen
-  - Mohammed Abugurain
-  - Philip Dames
-  - Shinkyu Park
-  publisher: IEEE Transactions on Robotics
-  date: '2025-02-18'
-  link: https://doi.org/hbjtkv
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/978-981-96-3519-1_15
-  title: "Speech-Guided Sequential Planning for\_Autonomous Navigation Using Large\
-    \ Language Model Meta AI 3 (Llama3)"
-  authors:
-  - Alkesh K. Srivastava
-  - Philip Dames
-  publisher: Lecture Notes in Computer Science
-  date: '2025-03-25'
-  link: https://doi.org/hbjtkw
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/CogMI58952.2023.00011
+- id: doi:10.1109/CogMI58952.2023.00011
   title: 'Artificial Intelligence for Climate Smart Forestry: A Forward Looking Vision'
   authors:
   - Feng Luo
@@ -429,19 +680,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s10846-023-01986-0
-  title: The Convex Uncertain Voronoi Diagram for Safe Multi-Robot Multi-Target Tracking
-    Under Localization Uncertainty
-  authors:
-  - Jun Chen
-  - Philip Dames
-  publisher: Journal of Intelligent &amp; Robotic Systems
-  date: '2023-11-22'
-  link: https://doi.org/hbjtk3
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.48550/arXiv.2210.08577
+- id: doi:10.48550/arXiv.2210.08577
   title: Stochastic Occupancy Grid Map Prediction in Dynamic Scenes
   authors:
   - Zhanteng Xie
@@ -452,19 +691,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/TRO.2023.3257549
-  title: 'DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity
-    Obstacles'
-  authors:
-  - Zhanteng Xie
-  - Philip Dames
-  publisher: IEEE Transactions on Robotics
-  date: '2023-03-30'
-  link: https://doi.org/g7kvn5
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/MRA.2022.3213466
+- id: doi:10.1109/MRA.2022.3213466
   title: 'Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned
     From the Benchmark Autonomous Robot Navigation Challenge at ICRA 2022 [Competitions]'
   authors:
@@ -491,7 +718,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/MASS56207.2022.00054
+- id: doi:10.1109/MASS56207.2022.00054
   title: Time Constraint Finite-Horizon Path Planning Solution for Micromouse Extreme
     Problem
   authors:
@@ -506,7 +733,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/978-3-031-51497-5_27
+- id: doi:10.1007/978-3-031-51497-5_27
   title: "Comparing Stochastic Optimization Methods for\_Multi-robot, Multi-target\
     \ Tracking"
   authors:
@@ -518,7 +745,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/978-3-031-51497-5_22
+- id: doi:10.1007/978-3-031-51497-5_22
   title: "Distributed Multiple Hypothesis Tracker for\_Mobile Sensor Networks"
   authors:
   - Pujie Xin
@@ -529,7 +756,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/978-3-031-51497-5_10
+- id: doi:10.1007/978-3-031-51497-5_10
   title: "Distributed Multi-robot Tracking of\_Unknown Clustered Targets with\_Noisy\
     \ Measurements"
   authors:
@@ -542,19 +769,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.robot.2021.103947
-  title: 'The semantic PHD filter for multi-class target tracking: From theory to
-    practice'
-  authors:
-  - Jun Chen
-  - Zhanteng Xie
-  - Philip Dames
-  publisher: Robotics and Autonomous Systems
-  date: '2022-03-01'
-  link: https://doi.org/hbjtmb
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/IROS51168.2021.9636102
+- id: doi:10.1109/IROS51168.2021.9636102
   title: Towards Safe Navigation Through Crowded Dynamic Environments
   authors:
   - Zhanteng Xie
@@ -567,7 +782,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/ICRA48506.2021.9561888
+- id: doi:10.1109/ICRA48506.2021.9561888
   title: Distributed Multi-Target Tracking for Heterogeneous Mobile Sensing Networks
     with Limited Field of Views
   authors:
@@ -579,7 +794,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/ICRA48506.2021.9561057
+- id: doi:10.1109/ICRA48506.2021.9561057
   title: 'RASCAL: Robotic Arm for Sherds and Ceramics Automated Locomotion'
   authors:
   - Deborah Wang
@@ -592,33 +807,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.23919/ACC45564.2020.9147359
-  title: Distributed and Collision-Free Coverage Control of a Team of Mobile Sensors
-    Using the Convex Uncertain Voronoi Diagram
-  authors:
-  - Jun Chen
-  - Philip Dames
-  publisher: 2020 American Control Conference (ACC)
-  date: '2020-01-03'
-  link: https://doi.org/hbjtmm
-  type: paper
-  tags:
-  - distributed tracking
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/s10514-019-09840-9
-  title: Distributed multi-target search and tracking using the PHD filter
-  authors:
-  - "Philip\_M. Dames"
-  publisher: Autonomous Robots
-  date: '2019-02-22'
-  link: https://doi.org/gg57vt
-  type: paper
-  tags:
-  - distributed tracking
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/IROS45743.2020.9341126
+- id: doi:10.1109/IROS45743.2020.9341126
   title: Collision-Free Distributed Multi-Target Tracking Using Teams of Mobile Robots
     with Localization Uncertainty
   authors:
@@ -633,7 +822,7 @@
   - distributed tracking
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/978-3-030-95459-8_32
+- id: doi:10.1007/978-3-030-95459-8_32
   title: "Multi-class Target Tracking Using the\_Semantic PHD Filter"
   authors:
   - Jun Chen
@@ -646,61 +835,7 @@
   - distributed tracking
   plugin: sources.py
   file: sources.yaml
-- id: 10.1017/aap.2019.21
-  title: 'Centimeter-Level Recording for All: Field Experimentation with New, Affordable
-    Geolocation Technology'
-  authors:
-  - Peter J. Cobb
-  - Tiffany Earley-Spadoni
-  - Philip Dames
-  publisher: Advances in Archaeological Practice
-  date: '2019-08-13'
-  link: https://doi.org/gf7kzj
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/TRO.2018.2857475
-  title: A Survey on Aerial Swarm Robotics
-  authors:
-  - Soon-Jo Chung
-  - Aditya Avinash Paranjape
-  - Philip Dames
-  - Shaojie Shen
-  - Vijay Kumar
-  publisher: IEEE Transactions on Robotics
-  date: '2018-08-03'
-  link: https://doi.org/gd5jvb
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/TRO.2018.2860098
-  title: Guest Editorial Special Section on Aerial Swarm Robotics
-  authors:
-  - S.-J. Chung
-  - A. Paranjape
-  - P. Dames
-  - S. Shen
-  - V. Kumar
-  publisher: IEEE Transactions on Robotics
-  date: '2018-08-03'
-  link: https://doi.org/gg654x
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/s10514-017-9662-9
-  title: "Autonomous robotic exploration using a utility function based on R\xE9nyi\u2019\
-    s general theory of entropy"
-  authors:
-  - Henry Carrillo
-  - Philip Dames
-  - Vijay Kumar
-  - "Jos\xE9 A. Castellanos"
-  publisher: Autonomous Robots
-  date: '2017-08-12'
-  link: https://doi.org/gczm64
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/MRS.2017.8250924
+- id: doi:10.1109/MRS.2017.8250924
   title: Distributed multi-target search and tracking using the PHD filter
   authors:
   - Philip Dames
@@ -711,19 +846,7 @@
   - distributed tracking
   plugin: sources.py
   file: sources.yaml
-- id: 10.1177/0278364917709507
-  title: Detecting, localizing, and tracking an unknown number of moving targets using
-    a team of mobile robots
-  authors:
-  - Philip Dames
-  - Pratap Tokekar
-  - Vijay Kumar
-  publisher: The International Journal of Robotics Research
-  date: '2017-06-05'
-  link: https://doi.org/gcr254
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/TASE.2016.2631085
+- id: doi:10.1109/TASE.2016.2631085
   title: Automated System for Semantic Object Labeling With Soft-Object Recognition
     and Dynamic Programming Segmentation
   authors:
@@ -740,7 +863,7 @@
   link: https://doi.org/f95cj6
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/LRA.2015.2511444
+- id: doi:10.1109/LRA.2015.2511444
   title: Active Magnetic Anomaly Detection Using Multiple Micro Aerial Vehicles
   authors:
   - Philip M. Dames
@@ -752,7 +875,7 @@
   link: https://doi.org/ghj5tp
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/CoASE.2015.7294159
+- id: doi:10.1109/CoASE.2015.7294159
   title: An automated system for semantic object labeling with soft object recognition
     and dynamic programming segmentation
   authors:
@@ -770,7 +893,7 @@
   link: https://doi.org/hbjtmq
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/CoASE.2015.7294139
+- id: doi:10.1109/CoASE.2015.7294139
   title: Automated detection, localization, and registration of smart devices with
     multiple robots
   authors:
@@ -782,7 +905,7 @@
   link: https://doi.org/hbjtmr
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/ICRA.2015.7139224
+- id: doi:10.1109/ICRA.2015.7139224
   title: Autonomous robotic exploration using occupancy grid maps and graph SLAM based
     on Shannon and R&amp;#x00E9;nyi Entropy
   authors:
@@ -795,18 +918,7 @@
   link: https://doi.org/gf8zn7
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/TASE.2015.2425212
-  title: Autonomous Localization of an Unknown Number of Targets Without Data Association
-    Using Teams of Mobile Sensors
-  authors:
-  - Philip Dames
-  - Vijay Kumar
-  publisher: IEEE Transactions on Automation Science and Engineering
-  date: '2015-07-01'
-  link: https://doi.org/f7k46m
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.48550/arXiv.1502.04661
+- id: doi:10.48550/arXiv.1502.04661
   title: Experimental Characterization of a Bearing-only Sensor for Use With the PHD
     Filter
   authors:
@@ -817,7 +929,7 @@
   link: https://doi.org/hbjtms
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/978-3-319-51532-8_31
+- id: doi:10.1007/978-3-319-51532-8_31
   title: Detecting, Localizing, and Tracking an Unknown Number of Moving Targets Using
     a Team of Mobile Robots
   authors:
@@ -829,30 +941,7 @@
   link: https://doi.org/hbjtmt
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/MRA.2013.2295947
-  title: 'Playing Fetch with Your Robot: The Ability of Robots to Locate and Interact
-    with Objects'
-  authors:
-  - Philip Dames
-  - Dinesh Thakur
-  - Mac Schwager
-  - Vijay Kumar
-  publisher: IEEE Robotics &amp; Automation Magazine
-  date: '2014-06-01'
-  link: https://doi.org/hbjtmv
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/ICRA.2013.6630825
-  title: Cooperative multi-target localization with noisy sensors
-  authors:
-  - Philip Dames
-  - Vijay Kumar
-  publisher: 2013 IEEE International Conference on Robotics and Automation
-  date: '2013-05-01'
-  link: https://doi.org/hbjtmw
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.48550/arXiv.1302.3857
+- id: doi:10.48550/arXiv.1302.3857
   title: 'Technical Report: Cooperative Multi-Target Localization With Noisy Sensors'
   authors:
   - Philip Dames
@@ -862,34 +951,7 @@
   link: https://doi.org/hbjtmx
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.mechmachtheory.2012.12.007
-  title: Modeling, design, and control of 6-DoF flexure-based parallel mechanisms
-    for vibratory manipulation
-  authors:
-  - Thomas H. Vose
-  - Matthew H. Turpin
-  - Philip M. Dames
-  - Paul Umbanhowar
-  - Kevin M. Lynch
-  publisher: Mechanism and Machine Theory
-  date: '2013-06-01'
-  link: https://doi.org/f4s673
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/CDC.2012.6426239
-  title: A decentralized control policy for adaptive information gathering in hazardous
-    environments
-  authors:
-  - Philip Dames
-  - Mac Schwager
-  - Vijay Kumar
-  - Daniela Rus
-  publisher: 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
-  date: '2012-12-01'
-  link: https://doi.org/gr568d
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/978-3-319-29363-9_26
+- id: doi:10.1007/978-3-319-29363-9_26
   title: A Multi-robot Control Policy for Information Gathering in the Presence of
     Unknown Hazards
   authors:
