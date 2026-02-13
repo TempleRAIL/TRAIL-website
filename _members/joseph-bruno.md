@@ -4,6 +4,10 @@ image: images/members/joseph_bruno.jpeg
 description: PhD Student
 role: phd
 group: current
+aliases:
+  - Joseph Bruno
+  - Joseph N. Bruno
+  - Joseph N Bruno
 links:
   email: brunoj6@temple.edu
   home-page: www.joseph-bruno.com
